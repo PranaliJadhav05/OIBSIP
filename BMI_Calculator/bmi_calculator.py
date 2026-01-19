@@ -27,4 +27,5 @@ status = bmi_status(bmi_result)
 
 print("\nYour BMI Score is:", bmi_result)
 print("Health Status:", status)
-print("Take care of your health 🙂")
+print("BMI Calculation completed successfully!!!!")
+
